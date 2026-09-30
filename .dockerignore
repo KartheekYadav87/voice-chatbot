@@ -16,7 +16,6 @@ build
 Dockerfile
 render.yaml
 *.md
-training/data
 training/__pycache__
 *.log
 .DS_Store
